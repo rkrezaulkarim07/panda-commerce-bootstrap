@@ -1,0 +1,34 @@
+.categories img{
+    width: 100px;
+
+}
+
+.panda-slide .carousel-item{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
+
+
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: green;
+}
+
+
+.panda-card{
+    border: 0;
+}
+
+.panda-footer-card{
+    background-color: white;
+    border: 0;
+}
+
+.orange-bg{
+    background-color: springgreen;
+}
